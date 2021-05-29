@@ -1,4 +1,20 @@
+h1{
+    font-family: Brush Script MT;
+    font-size: 70px;
+}
+h2{
+    font-family: Brush Script MT;
+    font-size: 50px;
+}
+td{
+    width: 350px;
+    text-align: center;
+}
+.e{
+    width: 300px;
+    height: 325px;
+}
 .d{
-    width: 400px;
-    height: 400px
+    width: 300px;
+    height: 300px;
 }

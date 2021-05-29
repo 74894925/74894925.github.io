@@ -1,0 +1,51 @@
+.imagen{
+    position:absolute;
+    top: 5em;
+    left:0;
+    width:50%;
+}
+.contenido{
+    position:absolute;
+    top:28em;
+    left:0;
+}
+.frase{
+    position:absolute;
+    top:3.3em;
+    right:0.4em;
+    font-size: 45px;
+    color: white;
+    width: 45%;
+    font-style: oblique;
+}
+.titulo{
+    position:fixed;
+    background-color: #4A235A;
+    width: 100%;
+    top:0;
+    left:0;
+}
+.titulo1{
+    width: 500px;
+	padding: 0px 3px;
+	float: left;
+	position: relative;
+	top: 7%;
+	left: 5%;
+	color: #fff;
+	font-size: 30px;
+}
+.titulo2{
+    width: 500px;
+	padding: 0px 3px;
+	float: right;
+	position: relative;
+	top: 7%;
+	left: 25%;
+	color: #fff;
+	font-size: 30px;
+}
+.titulo21{
+    text-decoration: none;
+	color: white;
+}
