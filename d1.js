@@ -1,5 +1,5 @@
+alert("El costo por cada anillo es de S/.5,236.00 soles")
 var nj
 var total
-nj=prompt("¿Cuantas joyas quiere adquirir?");
-total=nj*24;
-document.write("Usted deber&aacute; de pagar S/."+total+" soles.")
+nj=prompt("¿Cuantos anillos quiere adquirir?");
+total=nj*5236;
